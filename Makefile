@@ -18,7 +18,7 @@ test:
 	echo ""
 	./tester/redis-challenge-tester --stage $(current_stage) --binary-path=./spawn_redis_server.sh
 
-test_debug: 
+test_debug:
 	./tester/redis-challenge-tester --stage $(current_stage) --binary-path=./spawn_redis_server.sh --debug
 
 test_and_report:
