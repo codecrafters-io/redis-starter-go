@@ -1,4 +1,4 @@
 #!/bin/sh
 
 echo "Spawning Redis server..."
-go run app/server.go
+exec go run app/server.go
