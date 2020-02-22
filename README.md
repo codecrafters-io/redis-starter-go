@@ -15,7 +15,7 @@ event loops, the Redis protocol and more.
    `app/server.go`.
 1. Commit your changes and run `git push origin master` to submit your solution
    to CodeCrafters. Test output will be streamed to your terminal.
-   
+ 
 # Passing the first stage
 
 CodeCrafters runs tests when you do a `git push`. Make an empty commit and push
