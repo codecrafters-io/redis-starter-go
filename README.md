@@ -10,7 +10,7 @@ event loops, the Redis protocol and more.
 
 # Usage
 
-1. Ensure you have `go` installed locally
+1. Ensure you have `go (1.13)` installed locally
 1. Run `./spawn_redis_server.sh` to run your Redis server, which is implemented in
    `app/server.go`.
 1. Commit your changes and run `git push origin master` to submit your solution
@@ -33,3 +33,4 @@ Go to `app/server.go` and uncomment the server implementation. Commit and
 push your changes, and you'll now see the first stage pass.
 
 Time to move on to the next stage!
+
